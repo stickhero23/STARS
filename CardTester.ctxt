@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CardTester
+comment0.text=\r\n\r\n\ @author\ user\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getCardsList()
+comment2.params=cardsList
+comment2.target=void\ setCardsList(java.util.ArrayList)
+comment3.params=
+comment3.target=CardTester()
+comment4.params=cardId\ name\ rating\ credit
+comment4.target=void\ addCard(int,\ java.lang.String,\ int,\ int)
+comment5.params=card
+comment5.target=void\ chargeCredit(com.skw.stars.system.Card)
+numComments=6
